@@ -4,7 +4,8 @@
 Developed an interactive Power BI dashboard to analyze sales performance across different regions and product sub-categories. The dashboard enables quick insights into revenue distribution and trends.
 
 ## 🔹 Dashboard Preview
-![Dashboard](Sales_Dashboard_powerBI.png)
+<img width="1596" height="895" alt="Sales_Dashboard _powerBI" src="https://github.com/user-attachments/assets/8f696ba0-1dc1-499a-9f5f-44bff5f8e836" />
+
 
 ## 🔹 Features
 - Sales Distribution by Region (Donut Chart)
